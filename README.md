@@ -1,4 +1,4 @@
-ARCHIVE LCARS SDK
+LCARS SDK ARCHIVE
 ============
 
 This is an archive of the LCARS-SDK source code and wiki for each version. Refer to the sub directory for each version for more information.
