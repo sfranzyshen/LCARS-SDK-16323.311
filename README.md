@@ -1,4 +1,4 @@
-This is an archive and personal workspace of the LCARS-SDK source code and wiki for each version. Refer to the sub directory for each version for more information.
+This is an **archive** and **personal workspace** of the LCARS-SDK source code and wiki for each version. Refer to the sub directory for each version for more information.
 
 This archive is here to support our work and share our changes to allow others direct access to older versions of the LCARS-SDK.
 
