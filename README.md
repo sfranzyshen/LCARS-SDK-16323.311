@@ -7,7 +7,7 @@ This archive is here to support our work and share our changes to allow others d
 The LCARS SDK is a development kit and environment umbrella designed specifically for generating canon quality and functional interfaces with the LCARS methodology within a webview.  Utilizing a webview the LCARS SDK can be applied to cross-modern internet browsers and both mobile and desktop applications.  Anywhere a webview is in place the SDK could be used.
 
 # 16323.311
-### SOURCE
+### MAINTAINED SOURCE
 https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/16323.311
 ### LIVE DEMOS
 [Hardcoded](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/16323.311/interfaces/hardcode/)<br>
@@ -16,7 +16,7 @@ https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/16323.311
 [Visual Guide](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/16323.311/interfaces/visual-guide/)<br>
 
 # 19182.4
-### SOURCE
+### MAINTAINED SOURCE
 https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/19182.4
 ### LIVE DEMOS
 [Hardcoded](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/hardcode/)<br>
