@@ -12,8 +12,11 @@ var uiColors = ['bg-blue-1', 'bg-blue-2','bg-blue-3','bg-blue-4','bg-green-1','b
    
 
 
-var nemesisUI = {type:'wrapper', id:'wpr_viewport', version:'row', flex:'h', children:[
-	
+var nemesisUI = {type:'wrapper', id:'wpr_viewport', version:'row', flex:'h', 
+	arrive:function(){LCARS.helper.viewportZoom(this.dom, {width:1440, height:1080}); 
+		window.addEventListener("resize", function(){LCARS.helper.viewportZoom(this.dom, {width:1440, height:1080});});},
+
+	children:[
     //Left Column Wrapper
     {type:'column', flex:'v', children:[
         {type:'wrapper', children:[
