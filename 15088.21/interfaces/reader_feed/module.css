@@ -1,0 +1,40 @@
+/** LCARS SDK 16323.311
+* This file is a part of the LCARS SDK.
+* https://github.com/AricwithanA/LCARS-SDK/blob/master/LICENSE.md
+* For more information please go to http://www.lcarssdk.org.
+**/
+
+#wpr_viewport{width:1290px; height:730px; -webkit-transition:opacity .25s linear; transition:opacity .25s linear; opacity:0;}
+
+.elbow{height:320px;}
+.title.half{padding-left:0px; padding-right:5px;}
+.postTitle{top:65px; left:185px; border-bottom:2px solid #ffffff; height:67px; right:35px;}
+
+#column_feedSelection{width:150px; top:10px; bottom:10px; left:10px; text-align:right;}
+#wpr_rightFrame{top:10px; left:170px; right:10px; bottom:10px;}
+#row_headerFrame{right:0px; top:0px; height:30px;}
+#elbow_scrollUp .bar{width:606px; right:-604px;}
+#elbow_scrollDown{bottom:0px;}
+#elbow_scrollDown .bar{width:927px; right:-925px;}
+#btn_scrollValue{top:325px; text-align:right;}
+#wpr_rightFrame>.cap{bottom:0px; right:0px;}
+#wpr_loadedContent{left:185px; top:160px; right:35px; height:485px; overflow:hidden;}
+
+.c1>.bar, .c1>.block, .c1>.button, .c1>.cap{background-color:#774466; border-color:#774466;}
+.c2>.bar, .c2>.block, .c2>.button, .c2>.cap{background-color:#4455BB; border-color:#4455BB;}
+.c3>.bar, .c3>.block, .c3>.button, .c3>.cap{background-color:#9977AA; border-color:#9977AA;}
+.c4>.bar, .c4>.block, .c4>.button, .c4>.cap{background-color:#6688CC; border-color:#6688CC;}
+.w1>.bar, .w1>.block, .w1>.button, .w1>.cap{background-color:#AA5533; border-color:#AA5533;}
+.w2>.bar, .w2>.block, .w2>.button, .w2>.cap{background-color:#BB6622; border-color:#BB6622;}
+.w3>.bar, .w3>.block, .w3>.button, .w3>.cap{background-color:#DD6644; border-color:#DD6644;}
+.w4>.bar, .w4>.block, .w4>.button, .w4>.cap{background-color:#EE9955; border-color:#EE9955;}
+
+.c1:not(.complexButton){background-color:#774466; border-color:#774466;}
+.c2:not(.complexButton){background-color:#4455BB; border-color:#4455BB;}
+.c3:not(.complexButton){background-color:#9977AA; border-color:#9977AA;}
+.c4:not(.complexButton){background-color:#6688CC; border-color:#6688CC;}
+.w1:not(.complexButton){background-color:#AA5533; border-color:#AA5533;}
+.w2:not(.complexButton){background-color:#BB6622; border-color:#BB6622;}
+.w3:not(.complexButton){background-color:#DD6644; border-color:#DD6644;}
+.w4:not(.complexButton){background-color:#EE9955; border-color:#EE9955;}
+
