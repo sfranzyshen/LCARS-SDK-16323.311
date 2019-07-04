@@ -2172,7 +2172,7 @@ pre{white-space: pre-wrap;
 
 /* =============================================================================
    Active/Hover States. Included for optional use.
-   ==========================================================================
+   ========================================================================== */
 
 
 .button:hover, 
@@ -2185,4 +2185,4 @@ pre{white-space: pre-wrap;
 .elbow:active,
 .complexButton:active > *:not(.text){-webkit-animation:none !important;animation:none !important; background-color:#ffffff !important; border-color:#ffffff !important;}
 
-   ========================================================================== */
+/*   ========================================================================== */
