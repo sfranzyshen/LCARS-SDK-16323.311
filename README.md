@@ -9,6 +9,7 @@ The LCARS SDK is a development kit and environment umbrella designed specificall
 ##### MY COPY OF SOURCE CODE (*May differ form original material)
 [https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/15088.21](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/15088.21)
 ##### LIVE DEMOS
+[Astrometric Analysis](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/astrometric_analysis_deif/)<br>
 [Shield Status](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/voyager_shield_status/)<br>
 [Warpcore](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/warpcore/)<br>
 [Feed Reader](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/reader_feed/)<br>
