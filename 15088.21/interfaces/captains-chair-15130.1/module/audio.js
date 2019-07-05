@@ -72,7 +72,7 @@ function audioAccessDataSuccess() {
 function runAudio(endPath){
     if(domlCalls.settings.values.soundEffects !== false){
         var path = document.location.pathname;
-        //path = path.substr( path, path.length - 10 );
+        path = path.substr( path, path.length - 10 );
 //        var starPath = 'file://' + path;
         var starPath = path;
         var audio_buttonPress = new Audio(starPath + endPath);
