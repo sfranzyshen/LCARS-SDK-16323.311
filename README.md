@@ -6,7 +6,7 @@ This is an **archive** and my (not the developer) **personal workspace** of the 
 The LCARS SDK is a development kit and environment umbrella designed specifically for generating canon quality and functional interfaces with the LCARS methodology within a webview.  Utilizing a webview the LCARS SDK can be applied to cross-modern internet browsers and both mobile and desktop applications.  Anywhere a webview is in place the SDK could be used.
 
 ## 15088.21 (0a7775a)
-##### MY COPY OF SOURCE CODE (*May differ form original material)
+##### MY COPY OF SOURCE CODE *(May differ form original material)*
 [https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/15088.21](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/15088.21)
 ##### LIVE DEMOS
 [Astrometric Analysis](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/astrometric_analysis_deif/)<br>
@@ -14,10 +14,10 @@ The LCARS SDK is a development kit and environment umbrella designed specificall
 [Warpcore](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/warpcore/)<br>
 [Feed Reader](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/reader_feed/)<br>
 ##### DOMod based
-[Captains-Chair](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/captains-chair-15130.1/index.html) (right click -> inspect ... then right click -> reload to get audio and interactivness working)
+[Captains-Chair](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/captains-chair-15130.1/index.html) *(right click -> inspect ... then right click -> reload to get audio and interactivness working)*
 
 ## 16323.311 (d14623d)
-##### MY COPY OF SOURCE CODE (*May differ form original material)
+##### MY COPY OF SOURCE CODE *(May differ form original material)*
 [https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/16323.311](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/16323.311)
 ##### LIVE DEMOS
 [Hardcoded](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/16323.311/interfaces/hardcode/)<br>
@@ -26,7 +26,7 @@ The LCARS SDK is a development kit and environment umbrella designed specificall
 [Visual Guide](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/16323.311/interfaces/visual-guide/)<br>
 
 ## 19182.4 (ed33827)
-##### MY COPY OF SOURCE CODE (*May differ form original material)
+##### MY COPY OF SOURCE CODE *(May differ form original material)*
 [https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/19182.4](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/19182.4)
 ##### LIVE DEMOS
 [Hardcoded](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/hardcode/)<br>
