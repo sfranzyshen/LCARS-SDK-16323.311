@@ -1,7 +1,4 @@
-This is an **archive** and **personal workspace** of the LCARS-SDK source code and wiki for each version. <br>
-Refer to the sub directory for each version for more information.<br>
-
-This archive is here to support our work, share our changes and to allow others direct access to older versions of the sdk<br>
+This is an **archive** and my (not the developer) **personal workspace** of the LCARS-SDK source code and wiki for each version. Refer to the sub directory for each version for more information. This archive is here to support our (IFL) work, share our changes, and to allow others direct access to older versions of the sdk<br>
 
 ### This is only here for reference. Please refer to the original project found ...<br>
 [Here - https://github.com/Aricwithana/LCARS-SDK](https://github.com/Aricwithana/LCARS-SDK)
