@@ -14,9 +14,7 @@ The LCARS SDK is a development kit and environment umbrella designed specificall
 [Warpcore](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/warpcore/)<br>
 [Feed Reader](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/reader_feed/)<br>
 ##### DOMod based
-Captains Chair <br>
-[Demo](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/captains-chair-15130.1/index.html) *(right click -> inspect ... then right click -> reload to get audio and interactivness working)*<br>
-[Video](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/captains-chair-15130.1/index.webm)<br>
+Captains Chair [Video](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/captains-chair-15130.1/index.webm), [Demo](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/captains-chair-15130.1/index.html) *(right click -> inspect ... then right click -> reload to get audio and interactivness working)*<br>
 
 ## 16323.311 (d14623d)
 ##### MY COPY OF SOURCE CODE *(May differ form original material)*
