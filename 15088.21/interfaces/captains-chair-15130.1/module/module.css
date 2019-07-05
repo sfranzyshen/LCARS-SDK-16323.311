@@ -1,0 +1,308 @@
+.scaler{-webkit-transform:scale3d(1,1,1);}
+
+#wpr_homeView{
+    width:360px; 
+    height:640px; 
+    padding:10px; 
+    max-width:360px; 
+    max-height:640px; 
+    min-width:360px; 
+    min-height:640px;
+    text-align:right; 
+    margin:auto; 
+    position:relative;
+}
+
+#wpr_homeView .row > *{max-height: 100%;}
+
+#wpr_homeView > .row > :not(:first-child){margin-left:10px;}
+#wpr_homeView > .row > :first-child{width:70px;}
+#wpr_homeView > .row .column > :not(:first-child), #wpr_homeView > :not(:first-child){margin-top:10px;}
+#wpr_homeView .dialog{position:relative;}
+
+#wpr_commandRow *{height:50px;}
+#wpr_commandRow .row > :not(:first-child){margin-left:10px;}
+#wpr_commandRow .row > .button{text-align:left;}
+#wpr_commandRow .row > :last-child{max-width:70px;}
+#wpr_commandRow .row > :first-child{text-align:right;}
+
+ #wpr_commandRow .row{
+     -webkit-justify-content: flex-end; 
+     justify-content: flex-end;
+ }   
+    
+
+.sdk.dialog.typeT>.content{
+    right:13px; 
+    top:16px; 
+    left:13px; 
+    bottom:16px; 
+    overflow:hidden; 
+    justify-content: center;
+}
+
+    
+.cap.tiny{
+    width:8px; 
+    height:8px; 
+    min-width:8px;
+}    
+.cap.tiny.right{
+    border-top-right-radius:4px; 
+    border-bottom-right-radius:4px; 
+}
+.cap.tiny.left{
+    border-top-left-radius:4px; 
+    border-bottom-left-radius:4px;
+}
+ 
+.button.tabLeft:before{
+    left: 12px; 
+    right: 6px;
+} 
+.button.tabRight:before{ 
+    left: 6px;
+    right: 12px;
+} 
+
+#wpr_columns{max-height: 270px;}
+#wpr_columns > :not(.flexch){min-width:70px;} 
+#wpr_columns .flexch{text-align:center;}
+#wpr_columns > :last-child{text-align:left;} 
+
+#wpr_appList, #wpr_recent, #wpr_domodList{
+    overflow:hidden; 
+    height:270px;
+}
+ 
+#wpr_listControls > .wrapper{
+    position:absolute; 
+    top:0px; 
+    width: 100%;
+}   
+
+
+#wpr_columns > :not(.flexch) .radioButton input:checked ~ .button{background-color:#CCCCFF;}
+
+#wpr_columns > .flexch .radioButton input:checked ~ .button,
+#wpr_columns > .flexch .checkboxButton input:checked ~ .button{
+    -webkit-animation: sysEnabled 1.25s step-end infinite; 
+    animation: sysEnabled 1.25s step-end infinite;
+    -webkit-animation-direction: reverse; 
+    animation-direction: reverse;
+}
+
+
+
+#wpr_controlFrame{
+    width:1256px; 
+    height:692px; 
+    position: absolute;
+}
+
+#wpr_controlFrame .header{height:207px;}
+#wpr_controlFrame .header .title{right:0px;}
+
+#wpr_controlFrame .header .row{
+    right:0px; 
+    bottom:0px; 
+    left:275px;
+}
+
+#wpr_controlFrame .main .row{
+    right:0px; 
+    top:0px; 
+    left:275px;
+}
+
+#wpr_controlFrame .header .row .bar:nth-child(2), #wpr_controlFrame .main .row .bar:nth-child(2){width:150px;}
+#wpr_controlFrame .header .row .bar:nth-last-child(3), #wpr_controlFrame .main .row .bar:nth-last-child(3){width:130px;}
+#wpr_controlFrame .header .row .bar:nth-last-child(2), #wpr_controlFrame .main .row .bar:nth-last-child(2){width:80px;}
+#wpr_controlFrame .header .row .bar:last-child, #wpr_controlFrame .main .row .bar:last-child{width:50px;}
+
+#wpr_controlFrame .header > .elbow{
+    bottom:0px; 
+    left:0px; 
+    width:150px; 
+    height:142px;
+}
+
+#wpr_controlFrame .main > .elbow{
+    top:0px; 
+    left:0px; 
+    width:150px; 
+    height:90px;
+}
+
+#wpr_controlFrame .header > .elbow .bar, #wpr_controlFrame .main > .elbow .bar{
+    width:125px; 
+    right:-120px;
+}
+
+#wpr_controlFrame .main .column{
+    top:95px;
+    width:150px; 
+    bottom:0px; 
+    left:0px;
+}
+
+#wpr_headerCommandRow{
+    right:0px; 
+    width:470px; 
+    bottom:51px;
+}
+
+#wpr_headerCommandRow > *{
+    position:relative; 
+    margin-right:10px;
+}
+
+#wpr_headerCommandRow > :last-child{margin-right:0px;}
+
+
+#wpr_controlFrame #wpr_levelMeters{
+    left:155px; 
+    right:0px; 
+    bottom:0px; 
+    width:auto;
+}
+
+#wpr_controlFrame .levelBar{  flex-direction: row;}
+#wpr_controlFrame .levelBar .cap{
+    border-right:none; 
+    border-left:5px solid #ffffff; 
+    margin-right:0px; 
+    margin-left:5px;
+}
+
+#wpr_controlFrame .levelBar .bar{min-width:25px;}
+#wpr_controlFrame .levelBar .bar[data-label="0"]{background-color:#505050;}
+
+#wpr_levelMeters :before, #wpr_levelMeters :after{text-align: left;}
+
+#wpr_controlFrame .bracket{  
+    width: 425px; 
+    height: 156px; 
+    left: 185px;
+}
+
+#wpr_controlFrame .sdk.bracket.typeA>.wrapper:not(.content) .bar{
+    height: auto; 
+    flex: 1;
+}
+#wpr_controlFrame .bracket .title{
+    font-family: 'lcars block'; 
+    letter-spacing: 5px; 
+    line-height: 1; 
+    width:100%; 
+    text-align:center;
+}
+
+.violet1Flash{
+    -webkit-animation: violet1Flash 1.25s step-end infinite; 
+    animation: violet1Flash 1.25s step-end infinite;
+}
+
+@-webkit-keyframes violet1Flash {
+   from, to { }
+     50% {background-color:#CCCCFF;}
+}
+    
+@keyframes violet1Flash {
+   from, to { }
+     50% {background-color:#CCCCFF;}
+}
+
+    
+.sysEnabled{
+    -webkit-animation: sysEnabled 2s step-end infinite; 
+    animation: sysEnabled 2s step-end infinite; 
+    -webkit-animation-direction: reverse; 
+    animation-direction: reverse;
+}  
+
+@-webkit-keyframes sysEnabled {
+   from, to { }
+     50% {background-color:#990000;}
+}
+    
+@keyframes sysEnabled {
+   from, to { }
+     50% {background-color:#990000;}
+}  
+    
+.secondaryInteraction{}
+
+#btn_cmd.active{ 
+    -webkit-animation: secondaryInteraction 1.25s step-end infinite; 
+    animation: secondaryInteraction 1.25s step-end infinite;
+}
+
+@-webkit-keyframes secondaryInteraction {
+   from, to { }
+     50% {background-color:transparent; color:transparent; border-color:transparent;}
+}
+@keyframes secondaryInteraction {
+   from, to { }
+     50% {background-color:transparent; color:transparent; border-color:transparent;}
+}
+
+#wpr_setVoicemail .title{
+    width:100%; 
+    margin-bottom:35px; 
+    position:relative; 
+    overflow:visible; 
+    text-align:center; 
+    margin: 15px 0 10px;
+}
+
+#wpr_setVoicemail .row{
+    left:0px; 
+    right:0px; 
+    bottom:0px; 
+    position:absolute;
+}
+
+#wpr_setVoicemail .row > .button{text-align:center;}
+
+#wpr_setVoicemail input{
+    width:100%; 
+    text-align:center; 
+    font-size:42px; 
+    height:auto;
+}
+
+.button[data-label="icon-scrollUp"]:before{
+    content:''; 
+    width: 0px; 
+    height: 0px; 
+    border-left: 8px solid transparent; 
+    border-right: 8px solid transparent; 
+    border-top: 16px solid #000000;   
+    bottom: 8px;
+    left: 8px; 
+}
+
+.button[data-label="icon-scrollDown"]:before{
+    content:''; 
+    width: 0px; 
+    height: 0px; 
+    border-left: 8px solid transparent; 
+    border-right: 8px solid transparent; 
+    border-bottom: 16px solid #000000;  
+    bottom: 8px;
+    right: 8px; 
+    left: auto;
+}
+
+#wpr_homeView{
+    transition:all .25s linear; 
+    -webkit-filter:grayscale(0);
+}
+#wpr_homeView.isLocked{-webkit-filter:grayscale(1);} 
+#wpr_homeView > .wrapper:not(#wpr_commandRow), #wpr_commandRow > .wrapper{}
+#wpr_homeView.isLocked  > .wrapper:not(#wpr_commandRow){pointer-events:none; }
+
+.isLocked #wpr_commandRow > .wrapper{pointer-events:none;}
+
+
