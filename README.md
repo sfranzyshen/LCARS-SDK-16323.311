@@ -9,6 +9,7 @@ The LCARS SDK is a development kit and environment umbrella designed specificall
 
 ## 15088.21 (0a7775a)
 [Source Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/15088.21) *(My copy of source code may differ form original material)*
+[Wiki Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/wiki/15088.21-TOC)
 ##### LIVE DEMOS
 [Astrometric Analysis](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/astrometric_analysis_deif/)<br>
 [Shield Status](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/voyager_shield_status/)<br>
@@ -19,6 +20,7 @@ Captains Chair [Video](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/
 
 ## 16323.311 (d14623d)
 [Source Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/16323.311) *(My copy of source code may differ form original material)*
+[Wiki Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/wiki/16323.311-TOC)
 ##### LIVE DEMOS
 [Hardcoded](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/16323.311/interfaces/hardcode/)<br>
 [Color Generator](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/16323.311/interfaces/color-generator/)<br>
@@ -27,6 +29,7 @@ Captains Chair [Video](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/
 
 ## 19182.4 (ed33827)
 [Source Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/19182.4) *(My copy of source code may differ form original material)*
+[Developer Wiki](https://github.com/Aricwithana/LCARS-SDK/wiki)
 ##### LIVE DEMOS
 [Hardcoded](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/hardcode/)<br>
 [Color Generator](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/color-generator/)<br>
