@@ -8,7 +8,7 @@ The LCARS SDK is a development kit and environment umbrella designed specificall
 ### [LCARS-SDK Wiki Archive *(for all versions)*](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/wiki)
 
 ## 15088.21 (0a7775a)
-[Source Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/15088.21) *(My copy of source code may differ form original material)*
+[Source Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/15088.21) *(My copy of source code may differ form original material)*<br>
 [Wiki Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/wiki/15088.21-TOC)
 ##### LIVE DEMOS
 [Astrometric Analysis](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/astrometric_analysis_deif/)<br>
@@ -19,7 +19,7 @@ The LCARS SDK is a development kit and environment umbrella designed specificall
 Captains Chair [Video](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/captains-chair-15130.1/index.webm), [Demo](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/captains-chair-15130.1/index.html) *(right click -> inspect ... then right click -> reload to get audio and interactivness working)*<br>
 
 ## 16323.311 (d14623d)
-[Source Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/16323.311) *(My copy of source code may differ form original material)*
+[Source Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/16323.311) *(My copy of source code may differ form original material)*<br>
 [Wiki Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/wiki/16323.311-TOC)
 ##### LIVE DEMOS
 [Hardcoded](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/16323.311/interfaces/hardcode/)<br>
@@ -28,7 +28,7 @@ Captains Chair [Video](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/
 [Visual Guide](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/16323.311/interfaces/visual-guide/)<br>
 
 ## 19182.4 (ed33827)
-[Source Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/19182.4) *(My copy of source code may differ form original material)*
+[Source Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/19182.4) *(My copy of source code may differ form original material)*<br>
 [Developer Wiki](https://github.com/Aricwithana/LCARS-SDK/wiki)
 ##### LIVE DEMOS
 [Hardcoded](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/hardcode/)<br>
