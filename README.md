@@ -1,7 +1,6 @@
 This is an **archive** and my (not the developer) **personal workspace** of the LCARS-SDK source code and wiki. Refer to the sub directory for each version for more information. This archive is here to support our (IFL) work, share our changes, and to allow others direct access to older versions of the sdk<br>
 
-### This is only here for reference. Please see the original project found ...<br>
-[Here - https://github.com/Aricwithana/LCARS-SDK](https://github.com/Aricwithana/LCARS-SDK)
+### This is only here for reference. Please see the original project found [Here](https://github.com/Aricwithana/LCARS-SDK)
 
 The LCARS SDK is a development kit and environment umbrella designed specifically for generating canon quality and functional interfaces with the LCARS methodology within a webview.  Utilizing a webview the LCARS SDK can be applied to cross-modern internet browsers and both mobile and desktop applications.  Anywhere a webview is in place the SDK could be used.
 
@@ -9,8 +8,7 @@ The LCARS SDK is a development kit and environment umbrella designed specificall
 ### [LCARS-SDK Wiki Archive *(for all versions)*](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/wiki)
 
 ## 15088.21 (0a7775a)
-##### MY COPY OF SOURCE CODE *(May differ form original material)*
-[https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/15088.21](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/15088.21)
+[Source Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/15088.21) *(My copy of source code may differ form original material)*
 ##### LIVE DEMOS
 [Astrometric Analysis](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/astrometric_analysis_deif/)<br>
 [Shield Status](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/voyager_shield_status/)<br>
@@ -20,8 +18,7 @@ The LCARS SDK is a development kit and environment umbrella designed specificall
 Captains Chair [Video](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/captains-chair-15130.1/index.webm), [Demo](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/captains-chair-15130.1/index.html) *(right click -> inspect ... then right click -> reload to get audio and interactivness working)*<br>
 
 ## 16323.311 (d14623d)
-##### MY COPY OF SOURCE CODE *(May differ form original material)*
-[https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/16323.311](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/16323.311)
+[Source Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/16323.311) *(My copy of source code may differ form original material)*
 ##### LIVE DEMOS
 [Hardcoded](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/16323.311/interfaces/hardcode/)<br>
 [Color Generator](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/16323.311/interfaces/color-generator/)<br>
@@ -29,8 +26,7 @@ Captains Chair [Video](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/
 [Visual Guide](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/16323.311/interfaces/visual-guide/)<br>
 
 ## 19182.4 (ed33827)
-##### MY COPY OF SOURCE CODE *(May differ form original material)*
-[https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/19182.4](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/19182.4)
+[Source Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/19182.4) *(My copy of source code may differ form original material)*
 ##### LIVE DEMOS
 [Hardcoded](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/hardcode/)<br>
 [Color Generator](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/color-generator/)<br>
