@@ -31,10 +31,11 @@ Captains Chair [Video](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/
 [Source Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/19182.4) *(My copy of source code may differ form original material)*<br>
 [Developer Wiki](https://github.com/Aricwithana/LCARS-SDK/wiki)
 ##### LIVE DEMOS
-- [x] [Hardcoded](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/hardcode/)<br>
-- [x] [Color Generator](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/color-generator/)<br>
-- [ ] [Color Rotation](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/color-rotation/)<br>
-- [ ] [Visual Guide](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/visual-guide/)<br>
+- [x] [Hardcoded](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/hardcode/)
+- [x] [Color Generator](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/color-generator/)
+- [ ] [Color Rotation](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/color-rotation/)
+- [ ] [Visual Guide](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/visual-guide/)
+
 ##### ALTERNATE DEPLOYMENT
 We are hosting our deployment model right here on github ... so everyone has access to it!<br> To use it take a look at the blank template [Here](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/blob/gh-pages/19182.4/interfaces/index.html)<br>
 
