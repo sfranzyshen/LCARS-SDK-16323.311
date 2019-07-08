@@ -36,8 +36,11 @@ Captains Chair [Video](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/
 - [ ] [Color Rotation](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/color-rotation/)
 - [ ] [Visual Guide](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/visual-guide/)
 
-##### ALTERNATE DEPLOYMENT
-We are hosting our deployment model right here on github ... so everyone has access to it!<br> To use it take a look at the blank template [Here](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/blob/gh-pages/19182.4/interfaces/index.html)<br>
+#### ALTERNATE DEPLOYMENT MODELS
+We are hosting our deployment models right here on github ... so that everyone has access to them!
+
+##### Internet Deployment:
+To use this model take a look at the blank template [Here](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/blob/gh-pages/19182.4/interfaces/index.html)<br>
 
 By adding the code snippit below to your interface ... you can deploy to the internet without downloading or hosting any other files besides your interface html, javascript and css files. Everything else is host in the cloud ... and fast!
 ```html
@@ -52,7 +55,11 @@ By adding the code snippit below to your interface ... you can deploy to the int
 <script type="text/javascript" src="https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/lcars-sdk-19182.4.js"></script>
 <link rel="stylesheet" type="text/css" href="https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/lcars-sdk-19182.4.css">
 ```
-<br>
-Also by downloading all the files you can also create an offline deployment model for a kiosk or even used as a native app using NW.js, Electron, PhoneGap, etc.
+##### OFFLINE Deployment:
+By downloading all dependency javascript files locally a offline deployment model can be created and used for a kiosk or used as a native app (using NW.js, Electron, PhoneGap, etc)
 
 [Here Is a convenient archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/raw/gh-pages/19182.4/lcars-sdk-19182.4.zip)
+
+And finally here is a comparison showing the performance gains when using the combinded files and embedded web fonts
+![Performance Comparison](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/compare.png "Performance Comparison")
+
