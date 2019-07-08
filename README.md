@@ -35,4 +35,20 @@ Captains Chair [Video](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/
 - [x] [Color Generator](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/color-generator/)<br>
 - [ ] [Color Rotation](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/color-rotation/)<br>
 - [ ] [Visual Guide](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/visual-guide/)<br>
+##### ALTERNATE DEPLOYMENT
+We are hosting our deployment model right here on github ... so everyone has access to it!<br> To use it take a look at the blank template [Here](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/blob/gh-pages/19182.4/interfaces/index.html)<br>
 
+By adding the code snippit below to your interface ... you can deploy to the internet without downloading or hosting any other files besides your interface html, javascript and css files. Everything else is host in the cloud ... and fast!
+```html
+<!-- LCARS SDK 19182.4
+- This file is a part of the LCARS SDK.
+- https://github.com/AricwithanA/LCARS-SDK/blob/master/LICENSE.md
+- For more information please go to http://www.lcarssdk.org.
+-->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-touch-events/2.0.0/jquery.mobile-events.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/arrive/2.4.1/arrive.min.js"></script>
+<script type="text/javascript" src="https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/lcars-sdk-19182.4.js"></script>
+<link rel="stylesheet" type="text/css" href="https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/lcars-sdk-19182.4.css">
+```
+<br>
