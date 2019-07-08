@@ -1,0 +1,61 @@
+@charset "utf-8";
+
+/** LCARS SDK 19182.4
+* This file is a part of the LCARS SDK.
+* https://github.com/AricwithanA/LCARS-SDK/blob/master/LICENSE.md
+* For more information please go to http://www.lcarssdk.org.
+**/
+
+
+/* =============================================================================
+   Fonts
+   ========================================================================== */
+
+@font-face {
+    font-family: 'LCARS';
+    src: url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/antonio-bold-webfont.eot');
+    src: url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/antonio-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/antonio-bold-webfont.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/antonio-bold-webfont.woff') format('woff'),
+         url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/Antonio-Bold.ttf') format('truetype'),
+         url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/antonio-bold-webfont.svg#antoniobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LCARS Lower';
+    src: url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/antonio-bold-webfont.eot');
+    src: url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/antonio-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/antonio-bold-webfont.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/antonio-bold-webfont.woff') format('woff'),
+         url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/Antonio-Bold.ttf') format('truetype'),
+         url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/antonio-bold-webfont.svg#antoniobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LCARS Block';
+    src: url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/lcars-mono-webfont.eot');
+    src: url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/lcars-mono-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/lcars-mono-webfont.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/lcars-mono-webfont.woff') format('woff'),
+		 url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/LCARS-Mono.ttf') format('truetype'),
+         url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/lcars-mono-webfont.svg#lcars-monoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'LCARS Mono';
+    src: url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/lcars-mono-webfont.eot');
+    src: url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/lcars-mono-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/lcars-mono-webfont.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/lcars-mono-webfont.woff') format('woff'),
+		 url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/LCARS-Mono.ttf') format('truetype'),
+         url('https://raw.githubusercontent.com/sfranzyshen/LCARS-SDK-ARCHIVE/gh-pages/19182.4/lcars-sdk/fonts/lcars-mono-webfont.svg#lcars-monoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
