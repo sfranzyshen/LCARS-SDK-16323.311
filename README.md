@@ -30,6 +30,7 @@ By downloading all dependency javascript files locally a offline deployment mode
 [Here Is a convenient archive - lcars-sdk-19182.4.zip](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/raw/gh-pages/19182.4/lcars-sdk-19182.4.zip)<br>
 Incase you need support for a font format other than woff2 [here are the rest of the fonts - lcars-sdk-fonts-19182.4.zip](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/raw/gh-pages/19182.4/lcars-sdk-fonts-19182.4.zip)
 
+
 And finally [here](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/compare.png "Performance Comparison") is a comparison showing the performance gains when using the combinded files and embedded web fonts ...
 ----------------------------------------------------------------------------------------------------------------------------------------
 ### [LCARS-SDK Wiki Archive *(for all versions)*](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/wiki)
