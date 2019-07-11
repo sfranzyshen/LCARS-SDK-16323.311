@@ -30,8 +30,9 @@ By downloading all dependency javascript files locally a offline deployment mode
 [Here Is a convenient archive - lcars-sdk-19182.4.zip](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/raw/gh-pages/19182.4/lcars-sdk-19182.4.zip)<br>
 Incase you need support for a font format other than woff2 [here are the rest of the fonts - lcars-sdk-fonts-19182.4.zip](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/raw/gh-pages/19182.4/lcars-sdk-fonts-19182.4.zip)
 
-
 And finally [here](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/compare.png "Performance Comparison") is a comparison showing the performance gains when using the combinded files and embedded web fonts ...
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 ### [LCARS-SDK Wiki Archive *(for all versions)*](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/wiki)
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -59,6 +60,8 @@ And finally [here](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/compa
 [Feed Reader](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/reader_feed/)<br>
 ##### DOMod based
 Captains Chair [Video](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/captains-chair-15130.1/index.webm), [Demo](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/15088.21/interfaces/captains-chair-15130.1/index.html) *(right click -> inspect ... then right click -> reload to get audio and interactivness working)*<br>
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 [Changelog](https://raw.githubusercontent.com/Aricwithana/LCARS-SDK/125bcf16998bffef34643b234d7b461a280c9e5d/lcarssdk/CHANGELOG.md)<br>
 [Wiki Diff Skipped?](	https://github.com/Aricwithana/LCARS-SDK/wiki/_compare/bb4b7d73112b21462c26f8394688b7a71bb225c7...4ee825b3c54b3a0233926167296936d8de53170e)<br>
