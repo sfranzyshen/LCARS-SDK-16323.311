@@ -38,7 +38,7 @@ And finally [here](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/compa
 ----------------------------------------------------------------------------------------------------------------------------------------
 ## 19182.4 (ed33827)
 [Source Archive](https://github.com/sfranzyshen/LCARS-SDK-ARCHIVE/tree/gh-pages/19182.4) *(My copy of source code may differ form original material)*<br>
-[Developer Wiki](https://github.com/Aricwithana/LCARS-SDK/wiki)
+[Developer Wiki](https://github.com/Aricwithana/LCARS-SDK/wiki) *(currently active project Wiki)*
 ##### LIVE DEMOS
 - [x] [Hardcoded](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/hardcode/)
 - [x] [Color Generator](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/color-generator/)
