@@ -28,7 +28,7 @@ border-left-color:#ffffff !important;
 
 [class*="bg-"], 
 [class*="bg-"] > *:not([class*="bg-"]){
-	transition:background-color .25s linear, border .25s linear;
+	transition:background-color linear, border linear;
 }
 
 

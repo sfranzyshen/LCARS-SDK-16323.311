@@ -74,7 +74,7 @@
 }
 
 //.sdk.default-bracket .animated { position:absolute; max-width:100%; min-width:100%; -webkit-animation: bracketAnimation 5s linear infinite !important; animation: bracketAnimation 5s linear infinite !important;}
-//.sdk.default-bracket .animatedR{ position:absolute; max-width:100%; min-width:100%; -webkit-animation: bracketAnimationR 5s linear infinite !important; animation: bracketAnimationR 5s linear infinite !important;}
+//.sdk.default-bracket .animated{ position:absolute; max-width:100%; min-width:100%; -webkit-animation: bracketAnimationR 5s linear infinite !important; animation: bracketAnimationR 5s linear infinite !important;}
 
 .sdk.default-bracket > .column .bar .bar{ position:absolute; max-width:100%;min-width:100%;  -webkit-animation: bracketAnimation 5s linear infinite !important; animation: bracketAnimation 5s linear infinite !important;}
 .sdk.default-bracket > .column ~ .column .bar .bar{ position:absolute;  max-width:100%; min-width:100%; -webkit-animation: bracketAnimationR 5s linear infinite !important; animation: bracketAnimationR 5s linear infinite !important; }
