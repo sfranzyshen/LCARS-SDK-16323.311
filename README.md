@@ -42,7 +42,7 @@ And finally [here](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/compa
 ##### LIVE DEMOS
 - [x] [Hardcoded](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/hardcode/)
 - [x] [Color Generator](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/color-generator/)
-- [ ] [Color Rotation](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/color-rotation/)
+- [x] [Color Rotation](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/color-rotation/)
 - [ ] [Visual Guide](https://sfranzyshen.github.io/LCARS-SDK-ARCHIVE/19182.4/interfaces/visual-guide/)
 
 
